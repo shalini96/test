@@ -1,2 +1,3 @@
 added with master
 line2
+line 3
